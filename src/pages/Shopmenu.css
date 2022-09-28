@@ -1,0 +1,18 @@
+.flexSearch {
+  position: relative;
+  /* border: 2px red solid; */
+  max-width: 200px;
+}
+.searchInput {
+  padding: 10px 15px;
+}
+.searchBtn {
+  position: absolute;
+  right: 5px;
+  top: 4px;
+  font-size: 24px;
+}
+.shopCard {
+  margin: auto;
+  width: 95%;
+}

@@ -1,0 +1,43 @@
+.cartImage {
+  max-width: 300px;
+}
+.mainCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px 20px;
+}
+img {
+  width: 100%;
+}
+.productCard {
+  display: flex;
+  align-items: center;
+}
+
+.addCartBtn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #2680c0;
+  color: #fff;
+}
+.countContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin: 30px auto;
+}
+.addedBtn {
+  background-color: #2680c0;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+}
